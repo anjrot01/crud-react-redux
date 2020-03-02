@@ -12,5 +12,5 @@ para ejeucutar el proyecto despues de instaladas las dependencias.
 
 Enjoy ✌
 
-Antonio Rodríguez
+Antonio Rodríguez.
 Full Stack Developer
