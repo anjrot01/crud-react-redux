@@ -8,6 +8,8 @@ Para instalar json-server en global ejecutar
 
 para ejeucutar el proyecto despues de instaladas las dependencias.
 
+
+
 `$ npm run dev`.
 
 Enjoy ✌
